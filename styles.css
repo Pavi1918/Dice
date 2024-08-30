@@ -1,0 +1,29 @@
+html {
+  background-color: #0b4555;
+}
+h1 {
+   color: seagreen;
+   font-size: 8rem;
+   text-align: center;
+   font-style: italic;
+}
+
+.container {
+ text-align: center;
+ }
+
+.dice {
+  font-size:3rem ;
+  font-style: italic;
+  color: seagreen;
+  display: inline-block;
+  gap: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 0;
+  color: seagreen;
+  font-style: italic;
+}
